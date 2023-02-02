@@ -1,0 +1,16 @@
+/*
+ *  문제 : A + B - 4
+ *  날짜 : 2023년 2월 2일 
+ */
+
+#include <stdio.h>
+
+int main(void){
+    int a, b;
+    
+    while(scanf("%d %d", &a, &b) != EOF){
+        printf("%d\n", a + b);
+    }
+    
+    return 0;
+}
