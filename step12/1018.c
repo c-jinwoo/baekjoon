@@ -57,7 +57,7 @@ int main(void){
 	            min = local_min_t2;
 	        }
 		}
-	}
+	} 
     
     printf("%d\n", min);
 
